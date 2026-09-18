@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 
 # ดึงค่าจาก GitHub Secrets
-HOST = os.getenv("API_HOST", "http://v3tv.live").strip()
+HOST = os.getenv("API_HOST", "http://dss.theoneip.tv:8080/").strip()
 if not HOST.startswith("http"):
     HOST = f"http://{HOST}"
 HOST = HOST.rstrip("/")
@@ -15,7 +15,7 @@ OUTPUT_LIVE_M3U = "DooTvGun.m3u"
 
 # กำหนดให้ดึงเฉพาะกลุ่ม |TH| ✪ THAILAND (ID 401) เท่านั้น
 CATEGORY_MAPPING = {
-    "401" : "|TH| ✪ THAILAND"
+    "318" : "VIP Sports"
 }
 
 headers = {
