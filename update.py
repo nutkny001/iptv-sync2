@@ -11,7 +11,7 @@ HOST = HOST.rstrip("/")
 
 USERNAME = os.getenv("API_USERNAME", "").strip()
 PASSWORD = os.getenv("API_PASSWORD", "").strip()
-OUTPUT_LIVE_M3U = "DooTvGun.m3u"
+OUTPUT_LIVE_M3U = "DooBallGun.m3u"
 
 # กำหนดให้ดึงเฉพาะกลุ่ม VIP Sports (ID 138) เท่านั้น
 CATEGORY_MAPPING = {
