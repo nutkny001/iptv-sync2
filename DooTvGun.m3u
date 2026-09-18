@@ -1,3 +1,1409 @@
 #EXTM3U url-tvg="http://dss.theoneip.tv:8080/xmltv.php?username=lF9NMBDCk8&password=4ENf2IkAbY"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 18-09-2026 14:48 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 18-09-2026 14:49 🟢
 http://clients.link/updated
+#EXTINF:-1 tvg-id="17201" group-title="VIP Sports",##########   VIP Sports   ##########
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17201.ts
+#EXTINF:-1 tvg-id="137940" group-title="VIP Sports",Sportdigital Edge HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/137940.ts
+#EXTINF:-1 tvg-id="137938" group-title="VIP Sports",SportDigital+ HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/137938.ts
+#EXTINF:-1 tvg-id="133681" group-title="VIP Sports",Rally TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/133681.ts
+#EXTINF:-1 tvg-id="132150" group-title="VIP Sports",Amazon Event 1 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132150.ts
+#EXTINF:-1 tvg-id="132149" group-title="VIP Sports",Amazon Event 2 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132149.ts
+#EXTINF:-1 tvg-id="132148" group-title="VIP Sports",Amazon Event 3 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132148.ts
+#EXTINF:-1 tvg-id="132147" group-title="VIP Sports",Amazon Event 4 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132147.ts
+#EXTINF:-1 tvg-id="132146" group-title="VIP Sports",Amazon Event 5 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132146.ts
+#EXTINF:-1 tvg-id="132145" group-title="VIP Sports",Amazon Event 6 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132145.ts
+#EXTINF:-1 tvg-id="132144" group-title="VIP Sports",Amazon Event 7 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132144.ts
+#EXTINF:-1 tvg-id="132143" group-title="VIP Sports",Amazon Event 8 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132143.ts
+#EXTINF:-1 tvg-id="132142" group-title="VIP Sports",Amazon Event 9 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132142.ts
+#EXTINF:-1 tvg-id="132141" group-title="VIP Sports",Amazon Event 10 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132141.ts
+#EXTINF:-1 tvg-id="132140" group-title="VIP Sports",Amazon Event 11 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132140.ts
+#EXTINF:-1 tvg-id="132139" group-title="VIP Sports",Amazon Event 12 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132139.ts
+#EXTINF:-1 tvg-id="132138" group-title="VIP Sports",Amazon Event 13 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132138.ts
+#EXTINF:-1 tvg-id="132137" group-title="VIP Sports",Amazon Event 14 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132137.ts
+#EXTINF:-1 tvg-id="132136" group-title="VIP Sports",Amazon Event 15 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/132136.ts
+#EXTINF:-1 tvg-id="131354" group-title="VIP Sports",TNT Sports Ultimate 4K VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/131354.ts
+#EXTINF:-1 tvg-id="131353" group-title="VIP Sports",TNT Sports Ultimate UHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/131353.ts
+#EXTINF:-1 tvg-id="130381" group-title="VIP Sports",Sky Sports+ 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130381.ts
+#EXTINF:-1 tvg-id="130382" group-title="VIP Sports",Sky Sports+ 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130382.ts
+#EXTINF:-1 tvg-id="130383" group-title="VIP Sports",Sky Sports+ 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130383.ts
+#EXTINF:-1 tvg-id="130385" group-title="VIP Sports",Sky Sports+ 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130385.ts
+#EXTINF:-1 tvg-id="130386" group-title="VIP Sports",Sky Sports+ 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130386.ts
+#EXTINF:-1 tvg-id="130387" group-title="VIP Sports",Sky Sports+ 6 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130387.ts
+#EXTINF:-1 tvg-id="130388" group-title="VIP Sports",Sky Sports+ 7 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130388.ts
+#EXTINF:-1 tvg-id="130389" group-title="VIP Sports",Sky Sports+ 8 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130389.ts
+#EXTINF:-1 tvg-id="130390" group-title="VIP Sports",Sky Sports+ 9 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130390.ts
+#EXTINF:-1 tvg-id="130391" group-title="VIP Sports",Sky Sports+ 10 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130391.ts
+#EXTINF:-1 tvg-id="130384" group-title="VIP Sports",Sky Sports+ 11 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130384.ts
+#EXTINF:-1 tvg-id="130392" group-title="VIP Sports",Sky Sports+ 12 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130392.ts
+#EXTINF:-1 tvg-id="130393" group-title="VIP Sports",Sky Sports+ 13 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130393.ts
+#EXTINF:-1 tvg-id="130394" group-title="VIP Sports",Sky Sports+ 14 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130394.ts
+#EXTINF:-1 tvg-id="130395" group-title="VIP Sports",Sky Sports+ 15 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130395.ts
+#EXTINF:-1 tvg-id="130396" group-title="VIP Sports",Sky Sports+ 16 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130396.ts
+#EXTINF:-1 tvg-id="130397" group-title="VIP Sports",Sky Sports+ 17 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130397.ts
+#EXTINF:-1 tvg-id="130398" group-title="VIP Sports",Sky Sports+ 18 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130398.ts
+#EXTINF:-1 tvg-id="130399" group-title="VIP Sports",Sky Sports+ 19 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130399.ts
+#EXTINF:-1 tvg-id="130400" group-title="VIP Sports",Sky Sports+ 20 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130400.ts
+#EXTINF:-1 tvg-id="130401" group-title="VIP Sports",Sky Sports+ 21 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130401.ts
+#EXTINF:-1 tvg-id="130402" group-title="VIP Sports",Sky Sports+ 22 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130402.ts
+#EXTINF:-1 tvg-id="130403" group-title="VIP Sports",Sky Sports+ 23 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130403.ts
+#EXTINF:-1 tvg-id="130404" group-title="VIP Sports",Sky Sports+ 24 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130404.ts
+#EXTINF:-1 tvg-id="130405" group-title="VIP Sports",Sky Sports+ 25 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130405.ts
+#EXTINF:-1 tvg-id="127887" group-title="VIP Sports",FS1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127887.ts
+#EXTINF:-1 tvg-id="128869" group-title="VIP Sports",DAZN Japan 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/128869.ts
+#EXTINF:-1 tvg-id="130760" group-title="VIP Sports",AIS Live 1 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130760.ts
+#EXTINF:-1 tvg-id="130759" group-title="VIP Sports",AIS Live 2 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130759.ts
+#EXTINF:-1 tvg-id="130758" group-title="VIP Sports",AIS Live 2 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130758.ts
+#EXTINF:-1 tvg-id="130757" group-title="VIP Sports",AIS Live 3 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130757.ts
+#EXTINF:-1 tvg-id="130756" group-title="VIP Sports",AIS Live 3 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130756.ts
+#EXTINF:-1 tvg-id="130755" group-title="VIP Sports",AIS Live 5 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130755.ts
+#EXTINF:-1 tvg-id="130754" group-title="VIP Sports",AIS Live 4 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130754.ts
+#EXTINF:-1 tvg-id="130753" group-title="VIP Sports",AIS Live 5 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130753.ts
+#EXTINF:-1 tvg-id="130752" group-title="VIP Sports",AIS Live 6 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130752.ts
+#EXTINF:-1 tvg-id="130751" group-title="VIP Sports",AIS Live 6 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130751.ts
+#EXTINF:-1 tvg-id="130750" group-title="VIP Sports",AIS Live 7 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130750.ts
+#EXTINF:-1 tvg-id="130749" group-title="VIP Sports",AIS Live 7 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130749.ts
+#EXTINF:-1 tvg-id="130748" group-title="VIP Sports",AIS Live 8 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130748.ts
+#EXTINF:-1 tvg-id="130747" group-title="VIP Sports",AIS Live 8 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130747.ts
+#EXTINF:-1 tvg-id="130746" group-title="VIP Sports",AIS Live 9 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130746.ts
+#EXTINF:-1 tvg-id="130745" group-title="VIP Sports",AIS Live 9 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130745.ts
+#EXTINF:-1 tvg-id="130744" group-title="VIP Sports",AIS Live TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130744.ts
+#EXTINF:-1 tvg-id="130743" group-title="VIP Sports",AIS Live 1 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130743.ts
+#EXTINF:-1 tvg-id="130742" group-title="VIP Sports",AIS Play 1 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130742.ts
+#EXTINF:-1 tvg-id="130741" group-title="VIP Sports",AIS Play 1 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130741.ts
+#EXTINF:-1 tvg-id="130740" group-title="VIP Sports",AIS Play 2 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130740.ts
+#EXTINF:-1 tvg-id="130739" group-title="VIP Sports",AIS Play 2 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130739.ts
+#EXTINF:-1 tvg-id="130738" group-title="VIP Sports",AIS Play 3 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130738.ts
+#EXTINF:-1 tvg-id="130737" group-title="VIP Sports",AIS Play 3 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130737.ts
+#EXTINF:-1 tvg-id="130736" group-title="VIP Sports",AIS Play 4 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130736.ts
+#EXTINF:-1 tvg-id="130735" group-title="VIP Sports",AIS Play 4 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130735.ts
+#EXTINF:-1 tvg-id="130734" group-title="VIP Sports",MonoMax 1 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130734.ts
+#EXTINF:-1 tvg-id="130733" group-title="VIP Sports",MonoMax 1 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130733.ts
+#EXTINF:-1 tvg-id="130732" group-title="VIP Sports",MonoMax 1 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130732.ts
+#EXTINF:-1 tvg-id="130731" group-title="VIP Sports",MonoMax 1 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130731.ts
+#EXTINF:-1 tvg-id="130724" group-title="VIP Sports",MonoMax 2 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130724.ts
+#EXTINF:-1 tvg-id="130723" group-title="VIP Sports",MonoMax 2 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130723.ts
+#EXTINF:-1 tvg-id="130726" group-title="VIP Sports",MonoMax 2 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130726.ts
+#EXTINF:-1 tvg-id="130725" group-title="VIP Sports",MonoMax 2 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130725.ts
+#EXTINF:-1 tvg-id="130722" group-title="VIP Sports",MonoMax 3 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130722.ts
+#EXTINF:-1 tvg-id="130721" group-title="VIP Sports",MonoMax 3 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130721.ts
+#EXTINF:-1 tvg-id="130720" group-title="VIP Sports",MonoMax 3 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130720.ts
+#EXTINF:-1 tvg-id="130719" group-title="VIP Sports",MonoMax 3 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130719.ts
+#EXTINF:-1 tvg-id="130718" group-title="VIP Sports",MonoMax 4 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130718.ts
+#EXTINF:-1 tvg-id="130717" group-title="VIP Sports",MonoMax 4 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130717.ts
+#EXTINF:-1 tvg-id="130716" group-title="VIP Sports",MonoMax 4 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130716.ts
+#EXTINF:-1 tvg-id="130715" group-title="VIP Sports",MonoMax 4 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130715.ts
+#EXTINF:-1 tvg-id="130714" group-title="VIP Sports",MonoMax 5 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130714.ts
+#EXTINF:-1 tvg-id="130713" group-title="VIP Sports",MonoMax 5 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130713.ts
+#EXTINF:-1 tvg-id="130712" group-title="VIP Sports",MonoMax 5 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130712.ts
+#EXTINF:-1 tvg-id="130711" group-title="VIP Sports",MonoMax 5 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130711.ts
+#EXTINF:-1 tvg-id="130710" group-title="VIP Sports",MonoMax 6 HD TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130710.ts
+#EXTINF:-1 tvg-id="130709" group-title="VIP Sports",MonoMax 6 HD TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130709.ts
+#EXTINF:-1 tvg-id="130708" group-title="VIP Sports",MonoMax 6 TH VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130708.ts
+#EXTINF:-1 tvg-id="130707" group-title="VIP Sports",MonoMax 6 TH [EN] VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130707.ts
+#EXTINF:-1 tvg-id="118087" group-title="VIP Sports",Motor America VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/118087.ts
+#EXTINF:-1 tvg-id="118085" group-title="VIP Sports",Billiard TV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/118085.ts
+#EXTINF:-1 tvg-id="118084" group-title="VIP Sports",Boxing TV VIP SPORT
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/118084.ts
+#EXTINF:-1 tvg-id="40189" group-title="VIP Sports",KSA Sport 2 FHD ARB VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/40189.ts
+#EXTINF:-1 tvg-id="23147" group-title="VIP Sports",NOVA SPORTS 2 HD GR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/23147.ts
+#EXTINF:-1 tvg-id="23146" group-title="VIP Sports",NOVA SPORTS 1 HD GR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/23146.ts
+#EXTINF:-1 tvg-id="82807" group-title="VIP Sports",NOVA SPORTS 3 HD GR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/82807.ts
+#EXTINF:-1 tvg-id="82808" group-title="VIP Sports",NOVA SPORTS 4 HD GR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/82808.ts
+#EXTINF:-1 tvg-id="82809" group-title="VIP Sports",NOVA SPORTS 5 HD GR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/82809.ts
+#EXTINF:-1 tvg-id="101890" group-title="VIP Sports",Nova Sport Prime HD GR VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101890.ts
+#EXTINF:-1 tvg-id="101891" group-title="VIP Sports",Nova Sport Start HD GR VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101891.ts
+#EXTINF:-1 tvg-id="116706" group-title="VIP Sports",Now HK Sports 4K 2 UHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116706.ts
+#EXTINF:-1 tvg-id="116707" group-title="VIP Sports",Now HK Sports 4K 3 UHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116707.ts
+#EXTINF:-1 tvg-id="116708" group-title="VIP Sports",Now HK SPOTV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116708.ts
+#EXTINF:-1 tvg-id="116709" group-title="VIP Sports",NowHK SPOTV 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116709.ts
+#EXTINF:-1 tvg-id="116710" group-title="VIP Sports",Now HK Sports Plus FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116710.ts
+#EXTINF:-1 tvg-id="116711" group-title="VIP Sports",NowHK Sports 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116711.ts
+#EXTINF:-1 tvg-id="116712" group-title="VIP Sports",Now HK Golf 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116712.ts
+#EXTINF:-1 tvg-id="116713" group-title="VIP Sports",Now HK Golf 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116713.ts
+#EXTINF:-1 tvg-id="116263" group-title="VIP Sports",StarzPlay AD Sport Asia 2 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116263.ts
+#EXTINF:-1 tvg-id="116262" group-title="VIP Sports",StarzPlay AD Sport Asia 2 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116262.ts
+#EXTINF:-1 tvg-id="116261" group-title="VIP Sports",StarzPlay AD Sport Asia 1 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116261.ts
+#EXTINF:-1 tvg-id="116260" group-title="VIP Sports",StarzPlay AD Sport Asia 1 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/116260.ts
+#EXTINF:-1 tvg-id="114734" group-title="VIP Sports",CHAMP | Bournemouth UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114734.ts
+#EXTINF:-1 tvg-id="114733" group-title="VIP Sports",CHAMP | Wolverhampton Wanderers UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114733.ts
+#EXTINF:-1 tvg-id="114732" group-title="VIP Sports",CHAMP | Tottenham Hotspur UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114732.ts
+#EXTINF:-1 tvg-id="114731" group-title="VIP Sports",CHAMP | Fulham UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114731.ts
+#EXTINF:-1 tvg-id="114730" group-title="VIP Sports",CHAMP | Everton UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114730.ts
+#EXTINF:-1 tvg-id="114729" group-title="VIP Sports",CHAMP | Newcastle United UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114729.ts
+#EXTINF:-1 tvg-id="114728" group-title="VIP Sports",CHAMP | Leeds United UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114728.ts
+#EXTINF:-1 tvg-id="114727" group-title="VIP Sports",CHAMP | Liverpool UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114727.ts
+#EXTINF:-1 tvg-id="114726" group-title="VIP Sports",CHAMP | Leeds United VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114726.ts
+#EXTINF:-1 tvg-id="114725" group-title="VIP Sports",CHAMP | Aston Villa UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114725.ts
+#EXTINF:-1 tvg-id="114724" group-title="VIP Sports",CHAMP | Chealsea UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114724.ts
+#EXTINF:-1 tvg-id="114723" group-title="VIP Sports",CHAMP | Manchester United UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114723.ts
+#EXTINF:-1 tvg-id="114722" group-title="VIP Sports",CHAMP | Manchester City UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114722.ts
+#EXTINF:-1 tvg-id="114721" group-title="VIP Sports",CHAMP | Arsenal UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114721.ts
+#EXTINF:-1 tvg-id="114720" group-title="VIP Sports",CHAMP | EPL Sports 10 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114720.ts
+#EXTINF:-1 tvg-id="114719" group-title="VIP Sports",CHAMP | EPL Sports 9 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114719.ts
+#EXTINF:-1 tvg-id="114718" group-title="VIP Sports",CHAMP | EPL Sports 8 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114718.ts
+#EXTINF:-1 tvg-id="114717" group-title="VIP Sports",CHAMP | EPL Sports 7 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114717.ts
+#EXTINF:-1 tvg-id="114716" group-title="VIP Sports",CHAMP | EPL Sports 6 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114716.ts
+#EXTINF:-1 tvg-id="114715" group-title="VIP Sports",CHAMP | EPL Sports 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114715.ts
+#EXTINF:-1 tvg-id="114714" group-title="VIP Sports",CHAMP | EPL Sports 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114714.ts
+#EXTINF:-1 tvg-id="114713" group-title="VIP Sports",CHAMP | EPL Sports 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114713.ts
+#EXTINF:-1 tvg-id="114712" group-title="VIP Sports",CHAMP | EPL Sports 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114712.ts
+#EXTINF:-1 tvg-id="114711" group-title="VIP Sports",CHAMP | EPL Sports 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114711.ts
+#EXTINF:-1 tvg-id="17196" group-title="VIP Sports",TNT Sports 1 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17196.ts
+#EXTINF:-1 tvg-id="17197" group-title="VIP Sports",TNT Sports 1 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17197.ts
+#EXTINF:-1 tvg-id="17194" group-title="VIP Sports",TNT Sports 2 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17194.ts
+#EXTINF:-1 tvg-id="17195" group-title="VIP Sports",TNT Sports 2 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17195.ts
+#EXTINF:-1 tvg-id="17192" group-title="VIP Sports",TNT Sports 3 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17192.ts
+#EXTINF:-1 tvg-id="17193" group-title="VIP Sports",TNT Sports 3 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17193.ts
+#EXTINF:-1 tvg-id="17190" group-title="VIP Sports",TNT Sports 4 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17190.ts
+#EXTINF:-1 tvg-id="17191" group-title="VIP Sports",TNT Sports 4 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17191.ts
+#EXTINF:-1 tvg-id="66877" group-title="VIP Sports",S Sports Action FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66877.ts
+#EXTINF:-1 tvg-id="66870" group-title="VIP Sports",S Sports Arena FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66870.ts
+#EXTINF:-1 tvg-id="66876" group-title="VIP Sports",S Sports Cricket FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66876.ts
+#EXTINF:-1 tvg-id="66875" group-title="VIP Sports",S Sports F1 FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66875.ts
+#EXTINF:-1 tvg-id="114869" group-title="VIP Sports",S Sports F1 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114869.ts
+#EXTINF:-1 tvg-id="114868" group-title="VIP Sports",S Sports F1 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114868.ts
+#EXTINF:-1 tvg-id="114867" group-title="VIP Sports",S Sports F1 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114867.ts
+#EXTINF:-1 tvg-id="114866" group-title="VIP Sports",S Sports F1 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114866.ts
+#EXTINF:-1 tvg-id="114865" group-title="VIP Sports",S Sports F1 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114865.ts
+#EXTINF:-1 tvg-id="66874" group-title="VIP Sports",S Sports Football FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66874.ts
+#EXTINF:-1 tvg-id="66873" group-title="VIP Sports",Sky Sports Golf FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66873.ts
+#EXTINF:-1 tvg-id="66872" group-title="VIP Sports",S Sports Main Event FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66872.ts
+#EXTINF:-1 tvg-id="66871" group-title="VIP Sports",Sky Sports Premier League FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66871.ts
+#EXTINF:-1 tvg-id="66869" group-title="VIP Sports",S Sports Racing FHD UK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/66869.ts
+#EXTINF:-1 tvg-id="131617" group-title="VIP Sports",HBO Boxing PPV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/131617.ts
+#EXTINF:-1 tvg-id="126137" group-title="VIP Sports",Netflix Events 1 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126137.ts
+#EXTINF:-1 tvg-id="126138" group-title="VIP Sports",Netflix Events 2 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126138.ts
+#EXTINF:-1 tvg-id="126139" group-title="VIP Sports",Netflix Events 3 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126139.ts
+#EXTINF:-1 tvg-id="112254" group-title="VIP Sports",Live Events PPV 01 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112254.ts
+#EXTINF:-1 tvg-id="112253" group-title="VIP Sports",Live Events PPV 02 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112253.ts
+#EXTINF:-1 tvg-id="112252" group-title="VIP Sports",Live Events PPV 03 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112252.ts
+#EXTINF:-1 tvg-id="112251" group-title="VIP Sports",Live Events PPV 04 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112251.ts
+#EXTINF:-1 tvg-id="112250" group-title="VIP Sports",Live Events PPV 05 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112250.ts
+#EXTINF:-1 tvg-id="112249" group-title="VIP Sports",Live Events PPV 06 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112249.ts
+#EXTINF:-1 tvg-id="112248" group-title="VIP Sports",Live Events PPV 07 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112248.ts
+#EXTINF:-1 tvg-id="112247" group-title="VIP Sports",Live Events PPV 08 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112247.ts
+#EXTINF:-1 tvg-id="112246" group-title="VIP Sports",Live Events PPV 09 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112246.ts
+#EXTINF:-1 tvg-id="112245" group-title="VIP Sports",Live Events PPV 10 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112245.ts
+#EXTINF:-1 tvg-id="112244" group-title="VIP Sports",Live Events PPV 11 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112244.ts
+#EXTINF:-1 tvg-id="112243" group-title="VIP Sports",Live Events PPV 12 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112243.ts
+#EXTINF:-1 tvg-id="112242" group-title="VIP Sports",Live Events PPV 13 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112242.ts
+#EXTINF:-1 tvg-id="112241" group-title="VIP Sports",Live Events PPV 14 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112241.ts
+#EXTINF:-1 tvg-id="112240" group-title="VIP Sports",Live Events PPV 15 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112240.ts
+#EXTINF:-1 tvg-id="112239" group-title="VIP Sports",Live Events PPV 16 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112239.ts
+#EXTINF:-1 tvg-id="112238" group-title="VIP Sports",Live Events PPV 17 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112238.ts
+#EXTINF:-1 tvg-id="112237" group-title="VIP Sports",Live Events PPV 18 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112237.ts
+#EXTINF:-1 tvg-id="112236" group-title="VIP Sports",Live Events PPV 19 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112236.ts
+#EXTINF:-1 tvg-id="112235" group-title="VIP Sports",Live Events PPV 20 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112235.ts
+#EXTINF:-1 tvg-id="112234" group-title="VIP Sports",Live Events PPV 21 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112234.ts
+#EXTINF:-1 tvg-id="112233" group-title="VIP Sports",Live Events PPV 22 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112233.ts
+#EXTINF:-1 tvg-id="112232" group-title="VIP Sports",Live Events PPV 23 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112232.ts
+#EXTINF:-1 tvg-id="17092" group-title="VIP Sports",Live Events PPV 24 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17092.ts
+#EXTINF:-1 tvg-id="126133" group-title="VIP Sports",Live Events PPV 25 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126133.ts
+#EXTINF:-1 tvg-id="126134" group-title="VIP Sports",Live Events PPV 26 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126134.ts
+#EXTINF:-1 tvg-id="126135" group-title="VIP Sports",Live Events PPV 27 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126135.ts
+#EXTINF:-1 tvg-id="126136" group-title="VIP Sports",Live Events PPV 28 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126136.ts
+#EXTINF:-1 tvg-id="126298" group-title="VIP Sports",Live Events PPV 29 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/126298.ts
+#EXTINF:-1 tvg-id="130436" group-title="VIP Sports",Live Events PPV 30 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/130436.ts
+#EXTINF:-1 tvg-id="112231" group-title="VIP Sports",Hub Premier 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112231.ts
+#EXTINF:-1 tvg-id="112229" group-title="VIP Sports",Hub Premier 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112229.ts
+#EXTINF:-1 tvg-id="112228" group-title="VIP Sports",Hub Premier 3 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112228.ts
+#EXTINF:-1 tvg-id="112227" group-title="VIP Sports",Hub Premier 4 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112227.ts
+#EXTINF:-1 tvg-id="112226" group-title="VIP Sports",Hub Premier 5 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112226.ts
+#EXTINF:-1 tvg-id="112225" group-title="VIP Sports",Hub Premier 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112225.ts
+#EXTINF:-1 tvg-id="112224" group-title="VIP Sports",Hub Premier 7 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112224.ts
+#EXTINF:-1 tvg-id="112223" group-title="VIP Sports",Hub Premier 8 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112223.ts
+#EXTINF:-1 tvg-id="112219" group-title="VIP Sports",flowsports RUSH Event 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112219.ts
+#EXTINF:-1 tvg-id="112218" group-title="VIP Sports",flowsports RUSH Event 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112218.ts
+#EXTINF:-1 tvg-id="112217" group-title="VIP Sports",flowsports RUSH Event 3 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112217.ts
+#EXTINF:-1 tvg-id="112216" group-title="VIP Sports",flowsports RUSH Event 4 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112216.ts
+#EXTINF:-1 tvg-id="112215" group-title="VIP Sports",flowsports RUSH Event 5 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112215.ts
+#EXTINF:-1 tvg-id="112214" group-title="VIP Sports",flowsports RUSH Event 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112214.ts
+#EXTINF:-1 tvg-id="112213" group-title="VIP Sports",flowsports RUSH Event 7 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112213.ts
+#EXTINF:-1 tvg-id="112212" group-title="VIP Sports",flowsports RUSH Event 8 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112212.ts
+#EXTINF:-1 tvg-id="112211" group-title="VIP Sports",flowsports RUSH Event 9 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112211.ts
+#EXTINF:-1 tvg-id="112210" group-title="VIP Sports",flowsports RUSH Event 10 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112210.ts
+#EXTINF:-1 tvg-id="112209" group-title="VIP Sports",Now HK Now Sports 4K FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112209.ts
+#EXTINF:-1 tvg-id="112208" group-title="VIP Sports",Now HK Sports 4K 1 UHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112208.ts
+#EXTINF:-1 tvg-id="112207" group-title="VIP Sports",Now HK Now Sports 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112207.ts
+#EXTINF:-1 tvg-id="112206" group-title="VIP Sports",Now HK Now Sports 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112206.ts
+#EXTINF:-1 tvg-id="112205" group-title="VIP Sports",Now HK Now Sports 3 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112205.ts
+#EXTINF:-1 tvg-id="112204" group-title="VIP Sports",Now HK Now Sports 4 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112204.ts
+#EXTINF:-1 tvg-id="112203" group-title="VIP Sports",Now HK Now Sports 5 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112203.ts
+#EXTINF:-1 tvg-id="112202" group-title="VIP Sports",Now HK Now Sports 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112202.ts
+#EXTINF:-1 tvg-id="112201" group-title="VIP Sports",Now HK Now Sports 7 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112201.ts
+#EXTINF:-1 tvg-id="112200" group-title="VIP Sports",Now HK Premier Sports 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112200.ts
+#EXTINF:-1 tvg-id="112194" group-title="VIP Sports",Now HK Premier Sports 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112194.ts
+#EXTINF:-1 tvg-id="112199" group-title="VIP Sports",Now HK Premier Sports 3 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112199.ts
+#EXTINF:-1 tvg-id="112198" group-title="VIP Sports",Now HK Premier Sports 4 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112198.ts
+#EXTINF:-1 tvg-id="112197" group-title="VIP Sports",Now HK Premier Sports 5 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112197.ts
+#EXTINF:-1 tvg-id="112196" group-title="VIP Sports",Now HK Premier Sports 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112196.ts
+#EXTINF:-1 tvg-id="112195" group-title="VIP Sports",Now HK Sports Prime FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112195.ts
+#EXTINF:-1 tvg-id="102403" group-title="VIP Sports",Sky Sport 1 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102403.ts
+#EXTINF:-1 tvg-id="102402" group-title="VIP Sports",S Sport 2 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102402.ts
+#EXTINF:-1 tvg-id="102401" group-title="VIP Sports",Sky Sport 3 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102401.ts
+#EXTINF:-1 tvg-id="102400" group-title="VIP Sports",S Sport 4 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102400.ts
+#EXTINF:-1 tvg-id="102399" group-title="VIP Sports",S Sport 5 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102399.ts
+#EXTINF:-1 tvg-id="102398" group-title="VIP Sports",S Sport 6 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102398.ts
+#EXTINF:-1 tvg-id="102397" group-title="VIP Sports",Sky Sport 7 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102397.ts
+#EXTINF:-1 tvg-id="102396" group-title="VIP Sports",S Sport 8 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102396.ts
+#EXTINF:-1 tvg-id="102395" group-title="VIP Sports",Sky Sport 9 HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102395.ts
+#EXTINF:-1 tvg-id="102394" group-title="VIP Sports",Sky Sport Select HD NZ VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102394.ts
+#EXTINF:-1 tvg-id="112193" group-title="VIP Sports",Optus 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112193.ts
+#EXTINF:-1 tvg-id="112192" group-title="VIP Sports",Optus 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112192.ts
+#EXTINF:-1 tvg-id="112191" group-title="VIP Sports",Optus 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112191.ts
+#EXTINF:-1 tvg-id="112190" group-title="VIP Sports",Optus 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112190.ts
+#EXTINF:-1 tvg-id="112189" group-title="VIP Sports",Optus 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112189.ts
+#EXTINF:-1 tvg-id="112188" group-title="VIP Sports",Optus 6 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112188.ts
+#EXTINF:-1 tvg-id="112187" group-title="VIP Sports",Optus 7 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112187.ts
+#EXTINF:-1 tvg-id="112186" group-title="VIP Sports",Optus 8 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112186.ts
+#EXTINF:-1 tvg-id="112185" group-title="VIP Sports",Optus 9 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112185.ts
+#EXTINF:-1 tvg-id="112184" group-title="VIP Sports",Optus 10 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112184.ts
+#EXTINF:-1 tvg-id="112183" group-title="VIP Sports",Optus 11 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112183.ts
+#EXTINF:-1 tvg-id="112182" group-title="VIP Sports",Optus 12 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112182.ts
+#EXTINF:-1 tvg-id="112180" group-title="VIP Sports",CA | DAZN 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112180.ts
+#EXTINF:-1 tvg-id="112179" group-title="VIP Sports",CA | DAZN 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112179.ts
+#EXTINF:-1 tvg-id="112178" group-title="VIP Sports",CA | DAZN 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112178.ts
+#EXTINF:-1 tvg-id="112177" group-title="VIP Sports",CA | DAZN 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112177.ts
+#EXTINF:-1 tvg-id="112176" group-title="VIP Sports",CA | DAZN 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112176.ts
+#EXTINF:-1 tvg-id="112175" group-title="VIP Sports",CA | DAZN 6 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112175.ts
+#EXTINF:-1 tvg-id="112174" group-title="VIP Sports",CA | DAZN 7 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112174.ts
+#EXTINF:-1 tvg-id="112173" group-title="VIP Sports",CA | DAZN 8 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112173.ts
+#EXTINF:-1 tvg-id="112172" group-title="VIP Sports",CA | DAZN 9 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112172.ts
+#EXTINF:-1 tvg-id="112171" group-title="VIP Sports",CA | DAZN 10 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112171.ts
+#EXTINF:-1 tvg-id="112170" group-title="VIP Sports",CA | DAZN 11 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112170.ts
+#EXTINF:-1 tvg-id="112169" group-title="VIP Sports",CA | DAZN 12 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112169.ts
+#EXTINF:-1 tvg-id="112168" group-title="VIP Sports",CA | DAZN 13 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112168.ts
+#EXTINF:-1 tvg-id="112167" group-title="VIP Sports",Eurosport 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112167.ts
+#EXTINF:-1 tvg-id="112166" group-title="VIP Sports",Eurosport 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112166.ts
+#EXTINF:-1 tvg-id="112165" group-title="VIP Sports",Europsort XTRA 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112165.ts
+#EXTINF:-1 tvg-id="112164" group-title="VIP Sports",Europsort XTRA 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112164.ts
+#EXTINF:-1 tvg-id="112163" group-title="VIP Sports",Europsort XTRA 3 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112163.ts
+#EXTINF:-1 tvg-id="112162" group-title="VIP Sports",Europsort XTRA 4 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112162.ts
+#EXTINF:-1 tvg-id="112161" group-title="VIP Sports",Europsort XTRA 5 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112161.ts
+#EXTINF:-1 tvg-id="112160" group-title="VIP Sports",Europsort XTRA 6 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112160.ts
+#EXTINF:-1 tvg-id="112159" group-title="VIP Sports",Europsort XTRA 7 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112159.ts
+#EXTINF:-1 tvg-id="112158" group-title="VIP Sports",Europsort XTRA 8 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112158.ts
+#EXTINF:-1 tvg-id="112157" group-title="VIP Sports",Europsort XTRA 9 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112157.ts
+#EXTINF:-1 tvg-id="112156" group-title="VIP Sports",Europsort XTRA 10 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112156.ts
+#EXTINF:-1 tvg-id="112155" group-title="VIP Sports",William Hill BTV 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112155.ts
+#EXTINF:-1 tvg-id="112154" group-title="VIP Sports",William Hill BTV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112154.ts
+#EXTINF:-1 tvg-id="112153" group-title="VIP Sports",SIS One VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112153.ts
+#EXTINF:-1 tvg-id="112152" group-title="VIP Sports",SIS Two VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112152.ts
+#EXTINF:-1 tvg-id="112151" group-title="VIP Sports",SIS Racing VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112151.ts
+#EXTINF:-1 tvg-id="112150" group-title="VIP Sports",William Hill BTV 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112150.ts
+#EXTINF:-1 tvg-id="112149" group-title="VIP Sports",Coral TV 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112149.ts
+#EXTINF:-1 tvg-id="112148" group-title="VIP Sports",Coral TV 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112148.ts
+#EXTINF:-1 tvg-id="112147" group-title="VIP Sports",Ladbrokes TV 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112147.ts
+#EXTINF:-1 tvg-id="112146" group-title="VIP Sports",Ladbrokes TV 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112146.ts
+#EXTINF:-1 tvg-id="112145" group-title="VIP Sports",Ladbrokes TV 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112145.ts
+#EXTINF:-1 tvg-id="112144" group-title="VIP Sports",Paddy Power TV 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112144.ts
+#EXTINF:-1 tvg-id="112143" group-title="VIP Sports",Paddy Power TV 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112143.ts
+#EXTINF:-1 tvg-id="112142" group-title="VIP Sports",Paddy Power TV 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112142.ts
+#EXTINF:-1 tvg-id="112141" group-title="VIP Sports",ESPNplus 0 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112141.ts
+#EXTINF:-1 tvg-id="112140" group-title="VIP Sports",ESPNplus 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112140.ts
+#EXTINF:-1 tvg-id="112139" group-title="VIP Sports",ESPNplus 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112139.ts
+#EXTINF:-1 tvg-id="112138" group-title="VIP Sports",ESPNplus 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112138.ts
+#EXTINF:-1 tvg-id="112137" group-title="VIP Sports",ESPNplus 4 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112137.ts
+#EXTINF:-1 tvg-id="112136" group-title="VIP Sports",ESPNplus 5 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112136.ts
+#EXTINF:-1 tvg-id="112135" group-title="VIP Sports",ESPNplus 6 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112135.ts
+#EXTINF:-1 tvg-id="112134" group-title="VIP Sports",ESPNplus 7 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112134.ts
+#EXTINF:-1 tvg-id="112133" group-title="VIP Sports",ESPNplus 8 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112133.ts
+#EXTINF:-1 tvg-id="112132" group-title="VIP Sports",ESPNplus 9 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112132.ts
+#EXTINF:-1 tvg-id="112131" group-title="VIP Sports",ESPNplus 10 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112131.ts
+#EXTINF:-1 tvg-id="112130" group-title="VIP Sports",ESPNplus 11 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112130.ts
+#EXTINF:-1 tvg-id="112129" group-title="VIP Sports",ESPNplus 12 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112129.ts
+#EXTINF:-1 tvg-id="112128" group-title="VIP Sports",ESPNplus 13 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112128.ts
+#EXTINF:-1 tvg-id="112127" group-title="VIP Sports",ESPNplus 14 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112127.ts
+#EXTINF:-1 tvg-id="112126" group-title="VIP Sports",ESPNplus 15 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112126.ts
+#EXTINF:-1 tvg-id="112125" group-title="VIP Sports",ESPNplus 16 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112125.ts
+#EXTINF:-1 tvg-id="112124" group-title="VIP Sports",ESPNplus 17 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112124.ts
+#EXTINF:-1 tvg-id="112123" group-title="VIP Sports",ESPNplus 18 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112123.ts
+#EXTINF:-1 tvg-id="112122" group-title="VIP Sports",ESPNplus 19 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112122.ts
+#EXTINF:-1 tvg-id="112121" group-title="VIP Sports",ESPNplus 20 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112121.ts
+#EXTINF:-1 tvg-id="112120" group-title="VIP Sports",ESPNplus 21 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112120.ts
+#EXTINF:-1 tvg-id="112119" group-title="VIP Sports",ESPNplus 22 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112119.ts
+#EXTINF:-1 tvg-id="112118" group-title="VIP Sports",ESPNplus 23 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112118.ts
+#EXTINF:-1 tvg-id="112117" group-title="VIP Sports",ESPNplus 24 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112117.ts
+#EXTINF:-1 tvg-id="112116" group-title="VIP Sports",ESPNplus 25 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112116.ts
+#EXTINF:-1 tvg-id="112115" group-title="VIP Sports",ESPNplus 26 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112115.ts
+#EXTINF:-1 tvg-id="112114" group-title="VIP Sports",ESPNplus 27 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112114.ts
+#EXTINF:-1 tvg-id="112113" group-title="VIP Sports",ESPNplus 28 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112113.ts
+#EXTINF:-1 tvg-id="112112" group-title="VIP Sports",ESPNplus 29 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112112.ts
+#EXTINF:-1 tvg-id="112111" group-title="VIP Sports",ESPNplus 30 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112111.ts
+#EXTINF:-1 tvg-id="112110" group-title="VIP Sports",ESPNplus 31 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112110.ts
+#EXTINF:-1 tvg-id="112109" group-title="VIP Sports",ESPNplus 32 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112109.ts
+#EXTINF:-1 tvg-id="112108" group-title="VIP Sports",ESPNplus 33 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112108.ts
+#EXTINF:-1 tvg-id="112107" group-title="VIP Sports",ESPNplus 34 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112107.ts
+#EXTINF:-1 tvg-id="112106" group-title="VIP Sports",ESPNplus 35 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112106.ts
+#EXTINF:-1 tvg-id="112105" group-title="VIP Sports",ESPNplus 36 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112105.ts
+#EXTINF:-1 tvg-id="112104" group-title="VIP Sports",ESPNplus 37 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112104.ts
+#EXTINF:-1 tvg-id="112103" group-title="VIP Sports",ESPNplus 38 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112103.ts
+#EXTINF:-1 tvg-id="112102" group-title="VIP Sports",ESPNplus 39 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112102.ts
+#EXTINF:-1 tvg-id="112101" group-title="VIP Sports",ESPNplus 40 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112101.ts
+#EXTINF:-1 tvg-id="112100" group-title="VIP Sports",ESPNplus 41 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112100.ts
+#EXTINF:-1 tvg-id="112099" group-title="VIP Sports",ESPNplus 42 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112099.ts
+#EXTINF:-1 tvg-id="112098" group-title="VIP Sports",ESPNplus 43 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112098.ts
+#EXTINF:-1 tvg-id="112097" group-title="VIP Sports",ESPNplus 44 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112097.ts
+#EXTINF:-1 tvg-id="112096" group-title="VIP Sports",ESPNplus 45 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112096.ts
+#EXTINF:-1 tvg-id="112095" group-title="VIP Sports",ESPNplus 46 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112095.ts
+#EXTINF:-1 tvg-id="112094" group-title="VIP Sports",ESPNplus 47 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112094.ts
+#EXTINF:-1 tvg-id="112093" group-title="VIP Sports",ESPNplus 48 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112093.ts
+#EXTINF:-1 tvg-id="112092" group-title="VIP Sports",ESPNplus 49 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/112092.ts
+#EXTINF:-1 tvg-id="108339" group-title="VIP Sports",TNT Sports 4k UHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/108339.ts
+#EXTINF:-1 tvg-id="111999" group-title="VIP Sports",Celtic TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111999.ts
+#EXTINF:-1 tvg-id="111998" group-title="VIP Sports",Aberdeen TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111998.ts
+#EXTINF:-1 tvg-id="111997" group-title="VIP Sports",Dundee United TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111997.ts
+#EXTINF:-1 tvg-id="111996" group-title="VIP Sports",Hearts TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111996.ts
+#EXTINF:-1 tvg-id="111995" group-title="VIP Sports",Hibernian TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111995.ts
+#EXTINF:-1 tvg-id="111994" group-title="VIP Sports",Dundee TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111994.ts
+#EXTINF:-1 tvg-id="111993" group-title="VIP Sports",Livingston TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111993.ts
+#EXTINF:-1 tvg-id="111992" group-title="VIP Sports",Motherwell TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111992.ts
+#EXTINF:-1 tvg-id="111991" group-title="VIP Sports",Ross County TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111991.ts
+#EXTINF:-1 tvg-id="111990" group-title="VIP Sports",St Johnstone TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111990.ts
+#EXTINF:-1 tvg-id="111989" group-title="VIP Sports",St Mirren TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111989.ts
+#EXTINF:-1 tvg-id="111988" group-title="VIP Sports",Rangers TV VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/111988.ts
+#EXTINF:-1 tvg-id="114983" group-title="VIP Sports",Carib CSport VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114983.ts
+#EXTINF:-1 tvg-id="114982" group-title="VIP Sports",Carib CSport 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114982.ts
+#EXTINF:-1 tvg-id="114981" group-title="VIP Sports",Carib CSport Plus VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114981.ts
+#EXTINF:-1 tvg-id="114980" group-title="VIP Sports",Carib CSport Extra VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114980.ts
+#EXTINF:-1 tvg-id="114979" group-title="VIP Sports",Carib CSport Extra 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114979.ts
+#EXTINF:-1 tvg-id="114978" group-title="VIP Sports",Carib CSport Extra 3 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114978.ts
+#EXTINF:-1 tvg-id="114977" group-title="VIP Sports",Carib CSport Extra 4 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114977.ts
+#EXTINF:-1 tvg-id="114976" group-title="VIP Sports",Carib CSport Extra 5 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114976.ts
+#EXTINF:-1 tvg-id="114975" group-title="VIP Sports",Carib CSport Extra 6 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114975.ts
+#EXTINF:-1 tvg-id="73979" group-title="VIP Sports",DAZN Bar 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73979.ts
+#EXTINF:-1 tvg-id="73318" group-title="VIP Sports",DAZN Bar 1 FHD DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73318.ts
+#EXTINF:-1 tvg-id="73980" group-title="VIP Sports",DAZN Bar 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73980.ts
+#EXTINF:-1 tvg-id="73319" group-title="VIP Sports",DAZN Bar 2 FHD DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73319.ts
+#EXTINF:-1 tvg-id="75232" group-title="VIP Sports",Dazn FHD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75232.ts
+#EXTINF:-1 tvg-id="73971" group-title="VIP Sports",S Sport Austria 1 AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73971.ts
+#EXTINF:-1 tvg-id="73969" group-title="VIP Sports",S Sport Austria 1 HD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73969.ts
+#EXTINF:-1 tvg-id="73970" group-title="VIP Sports",S Sport Austria 1 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73970.ts
+#EXTINF:-1 tvg-id="73974" group-title="VIP Sports",S Sport Austria 2 AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73974.ts
+#EXTINF:-1 tvg-id="73972" group-title="VIP Sports",Sky Sport Austria 2 HD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73972.ts
+#EXTINF:-1 tvg-id="73973" group-title="VIP Sports",S Sport Austria 2 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73973.ts
+#EXTINF:-1 tvg-id="73975" group-title="VIP Sports",S Sport Austria 3 AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73975.ts
+#EXTINF:-1 tvg-id="73976" group-title="VIP Sports",Sky Sport Austria 3 HD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73976.ts
+#EXTINF:-1 tvg-id="73977" group-title="VIP Sports",S Sport Austria 3 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73977.ts
+#EXTINF:-1 tvg-id="73978" group-title="VIP Sports",S Sport Austria 4 AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73978.ts
+#EXTINF:-1 tvg-id="102406" group-title="VIP Sports",Sky Sport 5 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102406.ts
+#EXTINF:-1 tvg-id="102405" group-title="VIP Sports",Sky Sport 6 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102405.ts
+#EXTINF:-1 tvg-id="102404" group-title="VIP Sports",Sky Sport 7 FHD AT VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102404.ts
+#EXTINF:-1 tvg-id="17046" group-title="VIP Sports",ESPN U VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17046.ts
+#EXTINF:-1 tvg-id="16921" group-title="VIP Sports",Eleven Sports 1 (Belgium FR) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16921.ts
+#EXTINF:-1 tvg-id="16916" group-title="VIP Sports",Eleven Sports 2 (Belgium FR) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16916.ts
+#EXTINF:-1 tvg-id="16911" group-title="VIP Sports",Eleven Sports 3 (Belgium FR) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16911.ts
+#EXTINF:-1 tvg-id="16909" group-title="VIP Sports",Eleven Sports 3 (Poland) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16909.ts
+#EXTINF:-1 tvg-id="16918" group-title="VIP Sports",Eleven Sports 1 (Taiwan) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16918.ts
+#EXTINF:-1 tvg-id="16917" group-title="VIP Sports",Eleven Sports 1 (UK) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16917.ts
+#EXTINF:-1 tvg-id="17018" group-title="VIP Sports",Fox Soccer Plus HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17018.ts
+#EXTINF:-1 tvg-id="17017" group-title="VIP Sports",Fox Sports 1 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17017.ts
+#EXTINF:-1 tvg-id="17016" group-title="VIP Sports",Fox Sports 2 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17016.ts
+#EXTINF:-1 tvg-id="17039" group-title="VIP Sports",Fox Sports Asia 2 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17039.ts
+#EXTINF:-1 tvg-id="16974" group-title="VIP Sports",Live Events MLB Network VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16974.ts
+#EXTINF:-1 tvg-id="16973" group-title="VIP Sports",Live Events NBA 1 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16973.ts
+#EXTINF:-1 tvg-id="16958" group-title="VIP Sports",Live Events NBA TV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16958.ts
+#EXTINF:-1 tvg-id="17109" group-title="VIP Sports",Live Events NBC Golf VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17109.ts
+#EXTINF:-1 tvg-id="16957" group-title="VIP Sports",Live Events NFL 1 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16957.ts
+#EXTINF:-1 tvg-id="16941" group-title="VIP Sports",Live Events NFL Network HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16941.ts
+#EXTINF:-1 tvg-id="16940" group-title="VIP Sports",Live Events NFL Now VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16940.ts
+#EXTINF:-1 tvg-id="16939" group-title="VIP Sports",Live Events NFL Red Zone VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16939.ts
+#EXTINF:-1 tvg-id="16923" group-title="VIP Sports",Live Events NHL Network HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16923.ts
+#EXTINF:-1 tvg-id="17106" group-title="VIP Sports",Sports Channel 2 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17106.ts
+#EXTINF:-1 tvg-id="17104" group-title="VIP Sports",Sports Channel 4 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17104.ts
+#EXTINF:-1 tvg-id="17103" group-title="VIP Sports",Sports Channel 5 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17103.ts
+#EXTINF:-1 tvg-id="17099" group-title="VIP Sports",Sports Channel 9 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17099.ts
+#EXTINF:-1 tvg-id="17087" group-title="VIP Sports",Live Events RedBull TV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17087.ts
+#EXTINF:-1 tvg-id="17019" group-title="VIP Sports",Live Events The Golf Channel HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17019.ts
+#EXTINF:-1 tvg-id="16922" group-title="VIP Sports",Live Events The Golf Channel VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/16922.ts
+#EXTINF:-1 tvg-id="17086" group-title="VIP Sports",Live Events UFC 1 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17086.ts
+#EXTINF:-1 tvg-id="17085" group-title="VIP Sports",Live Events UFC 2 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17085.ts
+#EXTINF:-1 tvg-id="17084" group-title="VIP Sports",Live Events UFC 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17084.ts
+#EXTINF:-1 tvg-id="17083" group-title="VIP Sports",Live Events UFC 3 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17083.ts
+#EXTINF:-1 tvg-id="17082" group-title="VIP Sports",Live Events WWE Network 24/7 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17082.ts
+#EXTINF:-1 tvg-id="17081" group-title="VIP Sports",Liverpool FC TV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17081.ts
+#EXTINF:-1 tvg-id="17080" group-title="VIP Sports",MUTV VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17080.ts
+#EXTINF:-1 tvg-id="18820" group-title="VIP Sports",Movistar Liga de Campeones 1 FHD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18820.ts
+#EXTINF:-1 tvg-id="18819" group-title="VIP Sports",Movistar Liga de Campeones 1 HD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18819.ts
+#EXTINF:-1 tvg-id="18818" group-title="VIP Sports",Movistar Liga de Campeones 2 FHD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18818.ts
+#EXTINF:-1 tvg-id="18817" group-title="VIP Sports",Movistar Liga de Campeones 2 HD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18817.ts
+#EXTINF:-1 tvg-id="18816" group-title="VIP Sports",Movistar Liga de Campeones 3 HD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18816.ts
+#EXTINF:-1 tvg-id="18815" group-title="VIP Sports",Movistar Liga de Campeones 4 HD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18815.ts
+#EXTINF:-1 tvg-id="19549" group-title="VIP Sports",Movistar LaLiga ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19549.ts
+#EXTINF:-1 tvg-id="17029" group-title="VIP Sports",NBC Sports Bay Area VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17029.ts
+#EXTINF:-1 tvg-id="17028" group-title="VIP Sports",NBC Sports Boston VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17028.ts
+#EXTINF:-1 tvg-id="17027" group-title="VIP Sports",NBC Sports California VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17027.ts
+#EXTINF:-1 tvg-id="17026" group-title="VIP Sports",NBC Sports Chicago VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17026.ts
+#EXTINF:-1 tvg-id="17025" group-title="VIP Sports",NBC Sports Network HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17025.ts
+#EXTINF:-1 tvg-id="17024" group-title="VIP Sports",NBC Sports Northwest VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17024.ts
+#EXTINF:-1 tvg-id="17022" group-title="VIP Sports",NBC Sports Philadelphia Plus VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17022.ts
+#EXTINF:-1 tvg-id="17023" group-title="VIP Sports",NBC Sports Philadelphia VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17023.ts
+#EXTINF:-1 tvg-id="17021" group-title="VIP Sports",NBC Sports Washington VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17021.ts
+#EXTINF:-1 tvg-id="17015" group-title="VIP Sports",NBCSN HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17015.ts
+#EXTINF:-1 tvg-id="19551" group-title="VIP Sports",RMC Sport UHD  FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19551.ts
+#EXTINF:-1 tvg-id="18810" group-title="VIP Sports",RMC Sport 5 HD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18810.ts
+#EXTINF:-1 tvg-id="18805" group-title="VIP Sports",RMC Sport 10 HD Live FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18805.ts
+#EXTINF:-1 tvg-id="18804" group-title="VIP Sports",RMC Sport 11 HD Live FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18804.ts
+#EXTINF:-1 tvg-id="19548" group-title="VIP Sports",RTL UHD DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19548.ts
+#EXTINF:-1 tvg-id="17074" group-title="VIP Sports",Real Madrid FC TV (UK) VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17074.ts
+#EXTINF:-1 tvg-id="17189" group-title="VIP Sports",Sportsnet 360 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17189.ts
+#EXTINF:-1 tvg-id="17188" group-title="VIP Sports",Sportsnet Central HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17188.ts
+#EXTINF:-1 tvg-id="17187" group-title="VIP Sports",Sportsnet East HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17187.ts
+#EXTINF:-1 tvg-id="17186" group-title="VIP Sports",Sportsnet One HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17186.ts
+#EXTINF:-1 tvg-id="17185" group-title="VIP Sports",Sportsnet Ontario HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17185.ts
+#EXTINF:-1 tvg-id="17184" group-title="VIP Sports",Sportsnet Pacific HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17184.ts
+#EXTINF:-1 tvg-id="17183" group-title="VIP Sports",Sportsnet West HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17183.ts
+#EXTINF:-1 tvg-id="17182" group-title="VIP Sports",Sportsnet World HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17182.ts
+#EXTINF:-1 tvg-id="17181" group-title="VIP Sports",TSN FHD 1 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17181.ts
+#EXTINF:-1 tvg-id="17180" group-title="VIP Sports",TSN FHD 2 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17180.ts
+#EXTINF:-1 tvg-id="17179" group-title="VIP Sports",TSN FHD 3 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17179.ts
+#EXTINF:-1 tvg-id="17178" group-title="VIP Sports",TSN FHD 4 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17178.ts
+#EXTINF:-1 tvg-id="17177" group-title="VIP Sports",TSN FHD 5 VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17177.ts
+#EXTINF:-1 tvg-id="23149" group-title="VIP Sports",V Sport Motor HD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/23149.ts
+#EXTINF:-1 tvg-id="23148" group-title="VIP Sports",V Sport Premium FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/23148.ts
+#EXTINF:-1 tvg-id="19547" group-title="VIP Sports",beIN LaLiga UHD ES VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19547.ts
+#EXTINF:-1 tvg-id="18776" group-title="VIP Sports",beIN Sport 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18776.ts
+#EXTINF:-1 tvg-id="18775" group-title="VIP Sports",beIN Sport 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18775.ts
+#EXTINF:-1 tvg-id="18774" group-title="VIP Sports",beIN Sport 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18774.ts
+#EXTINF:-1 tvg-id="18773" group-title="VIP Sports",beIN Sport 4 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18773.ts
+#EXTINF:-1 tvg-id="18772" group-title="VIP Sports",beIN Sport 5 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18772.ts
+#EXTINF:-1 tvg-id="18771" group-title="VIP Sports",beIN Sport 6 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18771.ts
+#EXTINF:-1 tvg-id="18770" group-title="VIP Sports",beIN Sport 7 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18770.ts
+#EXTINF:-1 tvg-id="18769" group-title="VIP Sports",beIN Sport Premium 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18769.ts
+#EXTINF:-1 tvg-id="18768" group-title="VIP Sports",beIN Sport Premium 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18768.ts
+#EXTINF:-1 tvg-id="18767" group-title="VIP Sports",beIN Sport Premium 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18767.ts
+#EXTINF:-1 tvg-id="18766" group-title="VIP Sports",beIN Sports 11 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18766.ts
+#EXTINF:-1 tvg-id="18765" group-title="VIP Sports",beIN Sports 12 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18765.ts
+#EXTINF:-1 tvg-id="18801" group-title="VIP Sports",beIN Sports 1 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18801.ts
+#EXTINF:-1 tvg-id="18800" group-title="VIP Sports",beIN Sports 2 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18800.ts
+#EXTINF:-1 tvg-id="18796" group-title="VIP Sports",beIN Sports 3 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18796.ts
+#EXTINF:-1 tvg-id="18792" group-title="VIP Sports",beIN Sports 4 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18792.ts
+#EXTINF:-1 tvg-id="18789" group-title="VIP Sports",beIN Sports 5 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18789.ts
+#EXTINF:-1 tvg-id="18787" group-title="VIP Sports",beIN Sports 6 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18787.ts
+#EXTINF:-1 tvg-id="18785" group-title="VIP Sports",beIN Sports 7 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18785.ts
+#EXTINF:-1 tvg-id="18783" group-title="VIP Sports",beIN Sports Premium 1 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18783.ts
+#EXTINF:-1 tvg-id="18781" group-title="VIP Sports",beIN Sports Premium 2 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18781.ts
+#EXTINF:-1 tvg-id="18780" group-title="VIP Sports",beIN Sports Premium 3 FHD HEVC VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18780.ts
+#EXTINF:-1 tvg-id="75011" group-title="VIP Sports",beIN Sports 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75011.ts
+#EXTINF:-1 tvg-id="75010" group-title="VIP Sports",beIN Sports 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75010.ts
+#EXTINF:-1 tvg-id="18797" group-title="VIP Sports",beIN Sports 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18797.ts
+#EXTINF:-1 tvg-id="18793" group-title="VIP Sports",beIN Sports 4 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18793.ts
+#EXTINF:-1 tvg-id="18790" group-title="VIP Sports",beIN Sports 5 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18790.ts
+#EXTINF:-1 tvg-id="18788" group-title="VIP Sports",beIN Sports 6 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18788.ts
+#EXTINF:-1 tvg-id="18786" group-title="VIP Sports",beIN Sports 7 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18786.ts
+#EXTINF:-1 tvg-id="18784" group-title="VIP Sports",beIN Sports Premium 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18784.ts
+#EXTINF:-1 tvg-id="18782" group-title="VIP Sports",beIN Sports Premium 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18782.ts
+#EXTINF:-1 tvg-id="75000" group-title="VIP Sports",beIN Sport 1 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75000.ts
+#EXTINF:-1 tvg-id="75001" group-title="VIP Sports",beIN Sport 2 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75001.ts
+#EXTINF:-1 tvg-id="75002" group-title="VIP Sports",beIN Sport 3 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75002.ts
+#EXTINF:-1 tvg-id="75003" group-title="VIP Sports",beIN Sport 4 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75003.ts
+#EXTINF:-1 tvg-id="75004" group-title="VIP Sports",beIN Sport 5 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75004.ts
+#EXTINF:-1 tvg-id="75005" group-title="VIP Sports",beIN Sport 6 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75005.ts
+#EXTINF:-1 tvg-id="75006" group-title="VIP Sports",beIN Sport 7 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75006.ts
+#EXTINF:-1 tvg-id="75007" group-title="VIP Sports",beIN Sport Premium 1 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75007.ts
+#EXTINF:-1 tvg-id="75008" group-title="VIP Sports",beIN Sport Premium 2 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75008.ts
+#EXTINF:-1 tvg-id="75009" group-title="VIP Sports",beIN Sport Premium 3 SD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/75009.ts
+#EXTINF:-1 tvg-id="18799" group-title="VIP Sports",beIN Sports 2 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18799.ts
+#EXTINF:-1 tvg-id="18798" group-title="VIP Sports",beIN Sports 2 HD TH VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18798.ts
+#EXTINF:-1 tvg-id="18795" group-title="VIP Sports",beIN Sports 3 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18795.ts
+#EXTINF:-1 tvg-id="18794" group-title="VIP Sports",beIN Sports 3 HD TH VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18794.ts
+#EXTINF:-1 tvg-id="18777" group-title="VIP Sports",beIN Sports News HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/18777.ts
+#EXTINF:-1 tvg-id="19054" group-title="VIP Sports",beIN Sports 1 HD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19054.ts
+#EXTINF:-1 tvg-id="19050" group-title="VIP Sports",beIN Sports 1 FHD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19050.ts
+#EXTINF:-1 tvg-id="19053" group-title="VIP Sports",beIN Sports 2 HD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19053.ts
+#EXTINF:-1 tvg-id="19049" group-title="VIP Sports",beIN Sports 2 FHD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19049.ts
+#EXTINF:-1 tvg-id="19052" group-title="VIP Sports",beIN Sports 3 HD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19052.ts
+#EXTINF:-1 tvg-id="19048" group-title="VIP Sports",beIN Sports 3 FHD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19048.ts
+#EXTINF:-1 tvg-id="19051" group-title="VIP Sports",beIN Sports 4 HD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19051.ts
+#EXTINF:-1 tvg-id="19047" group-title="VIP Sports",beIN Sports 4 FHD TR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/19047.ts
+#EXTINF:-1 tvg-id="73639" group-title="VIP Sports",beIN Sports 1 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73639.ts
+#EXTINF:-1 tvg-id="73638" group-title="VIP Sports",beIN Sports 2 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73638.ts
+#EXTINF:-1 tvg-id="73637" group-title="VIP Sports",beIN Sports 3 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73637.ts
+#EXTINF:-1 tvg-id="48408" group-title="VIP Sports",beIN Sport 1 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48408.ts
+#EXTINF:-1 tvg-id="48407" group-title="VIP Sports",beIN Sport 2 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48407.ts
+#EXTINF:-1 tvg-id="48406" group-title="VIP Sports",beIN Sport 4 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48406.ts
+#EXTINF:-1 tvg-id="48405" group-title="VIP Sports",beIN Sport 5 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48405.ts
+#EXTINF:-1 tvg-id="48404" group-title="VIP Sports",beIN Sport 6 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48404.ts
+#EXTINF:-1 tvg-id="48403" group-title="VIP Sports",beIN Sport 7 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48403.ts
+#EXTINF:-1 tvg-id="48402" group-title="VIP Sports",beIN Sport 8 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48402.ts
+#EXTINF:-1 tvg-id="48585" group-title="VIP Sports",ATT SportsNet SW HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48585.ts
+#EXTINF:-1 tvg-id="48583" group-title="VIP Sports",BTN 1 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48583.ts
+#EXTINF:-1 tvg-id="48582" group-title="VIP Sports",BTN 2 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48582.ts
+#EXTINF:-1 tvg-id="48581" group-title="VIP Sports",BTN 3 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48581.ts
+#EXTINF:-1 tvg-id="48580" group-title="VIP Sports",BTN 4 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48580.ts
+#EXTINF:-1 tvg-id="48592" group-title="VIP Sports",CSN Bay Area HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48592.ts
+#EXTINF:-1 tvg-id="48590" group-title="VIP Sports",CSN California HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48590.ts
+#EXTINF:-1 tvg-id="48591" group-title="VIP Sports",CSN Chicago HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48591.ts
+#EXTINF:-1 tvg-id="48593" group-title="VIP Sports",CSN Northeast HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48593.ts
+#EXTINF:-1 tvg-id="48587" group-title="VIP Sports",CSN Northwest HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48587.ts
+#EXTINF:-1 tvg-id="48588" group-title="VIP Sports",CSN Philadelfia HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48588.ts
+#EXTINF:-1 tvg-id="48589" group-title="VIP Sports",CSN Washington HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48589.ts
+#EXTINF:-1 tvg-id="48579" group-title="VIP Sports",Stadium HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48579.ts
+#EXTINF:-1 tvg-id="48578" group-title="VIP Sports",Stadium 1 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48578.ts
+#EXTINF:-1 tvg-id="48577" group-title="VIP Sports",Stadium 2 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48577.ts
+#EXTINF:-1 tvg-id="48576" group-title="VIP Sports",Stadium 3 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48576.ts
+#EXTINF:-1 tvg-id="55407" group-title="VIP Sports",TF1 4K FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/55407.ts
+#EXTINF:-1 tvg-id="62525" group-title="VIP Sports",Astro Cricket HD MY VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/62525.ts
+#EXTINF:-1 tvg-id="62529" group-title="VIP Sports",Fox Cricket 501 AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/62529.ts
+#EXTINF:-1 tvg-id="48586" group-title="VIP Sports",TCN Philadelfia HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/48586.ts
+#EXTINF:-1 tvg-id="73316" group-title="VIP Sports",Premier Sport FHD SK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73316.ts
+#EXTINF:-1 tvg-id="73642" group-title="VIP Sports",ESPN 1 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73642.ts
+#EXTINF:-1 tvg-id="73641" group-title="VIP Sports",ESPN 2 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73641.ts
+#EXTINF:-1 tvg-id="73649" group-title="VIP Sports",Fox Sports 501 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73649.ts
+#EXTINF:-1 tvg-id="73648" group-title="VIP Sports",Fox Sports 502 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73648.ts
+#EXTINF:-1 tvg-id="73647" group-title="VIP Sports",Fox Sports 503 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73647.ts
+#EXTINF:-1 tvg-id="73646" group-title="VIP Sports",Fox Sports 504 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73646.ts
+#EXTINF:-1 tvg-id="73645" group-title="VIP Sports",Fox Sports 505 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73645.ts
+#EXTINF:-1 tvg-id="73644" group-title="VIP Sports",Fox Sports 506 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73644.ts
+#EXTINF:-1 tvg-id="73643" group-title="VIP Sports",Fox Sports 507 FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73643.ts
+#EXTINF:-1 tvg-id="73650" group-title="VIP Sports",Fox Sports News FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73650.ts
+#EXTINF:-1 tvg-id="73640" group-title="VIP Sports",Racing.com FHD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73640.ts
+#EXTINF:-1 tvg-id="73652" group-title="VIP Sports",ESPN 1 HD Carib VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73652.ts
+#EXTINF:-1 tvg-id="73651" group-title="VIP Sports",ESPN 2 HD Carib VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73651.ts
+#EXTINF:-1 tvg-id="73672" group-title="VIP Sports",Flow Sports 1 Carib VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73672.ts
+#EXTINF:-1 tvg-id="73673" group-title="VIP Sports",Flow Sports 1 HD Carib VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73673.ts
+#EXTINF:-1 tvg-id="73653" group-title="VIP Sports",TVJ Sports Network Carib VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/73653.ts
+#EXTINF:-1 tvg-id="79293" group-title="VIP Sports",Willow Cricket HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79293.ts
+#EXTINF:-1 tvg-id="79294" group-title="VIP Sports",Willow Cricket Extra HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79294.ts
+#EXTINF:-1 tvg-id="79295" group-title="VIP Sports",TUDN Football X1 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79295.ts
+#EXTINF:-1 tvg-id="79296" group-title="VIP Sports",TUDN Football X2 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79296.ts
+#EXTINF:-1 tvg-id="79297" group-title="VIP Sports",TUDN Football X3 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79297.ts
+#EXTINF:-1 tvg-id="79298" group-title="VIP Sports",TUDN Football X4 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79298.ts
+#EXTINF:-1 tvg-id="79299" group-title="VIP Sports",TUDN Football X5 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79299.ts
+#EXTINF:-1 tvg-id="79300" group-title="VIP Sports",TUDN Football X6 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79300.ts
+#EXTINF:-1 tvg-id="79301" group-title="VIP Sports",TUDN Football X7 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79301.ts
+#EXTINF:-1 tvg-id="79302" group-title="VIP Sports",TUDN Football X8 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79302.ts
+#EXTINF:-1 tvg-id="79303" group-title="VIP Sports",TUDN Football X9 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79303.ts
+#EXTINF:-1 tvg-id="79304" group-title="VIP Sports",TUDN Football X10 HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79304.ts
+#EXTINF:-1 tvg-id="79818" group-title="VIP Sports",TUDN Football HD US VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/79818.ts
+#EXTINF:-1 tvg-id="80152" group-title="VIP Sports",RMC Sport 6 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80152.ts
+#EXTINF:-1 tvg-id="80153" group-title="VIP Sports",RMC Sport 7 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80153.ts
+#EXTINF:-1 tvg-id="80154" group-title="VIP Sports",RMC Sport 8 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80154.ts
+#EXTINF:-1 tvg-id="80155" group-title="VIP Sports",RMC Sport 9 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80155.ts
+#EXTINF:-1 tvg-id="80156" group-title="VIP Sports",RMC Sport 12 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80156.ts
+#EXTINF:-1 tvg-id="80157" group-title="VIP Sports",RMC Sport 13 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80157.ts
+#EXTINF:-1 tvg-id="80158" group-title="VIP Sports",RMC Sport 14 FHD FR VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/80158.ts
+#EXTINF:-1 tvg-id="89764" group-title="VIP Sports",MLB 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89764.ts
+#EXTINF:-1 tvg-id="89765" group-title="VIP Sports",MLB 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89765.ts
+#EXTINF:-1 tvg-id="89766" group-title="VIP Sports",MLB 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89766.ts
+#EXTINF:-1 tvg-id="89767" group-title="VIP Sports",MLB 4 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89767.ts
+#EXTINF:-1 tvg-id="89768" group-title="VIP Sports",MLB 5 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89768.ts
+#EXTINF:-1 tvg-id="89769" group-title="VIP Sports",MLB 6 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89769.ts
+#EXTINF:-1 tvg-id="89770" group-title="VIP Sports",MLB 7 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89770.ts
+#EXTINF:-1 tvg-id="89771" group-title="VIP Sports",MLB 8 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89771.ts
+#EXTINF:-1 tvg-id="89772" group-title="VIP Sports",MLB 9 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89772.ts
+#EXTINF:-1 tvg-id="89773" group-title="VIP Sports",MLB 10 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89773.ts
+#EXTINF:-1 tvg-id="89774" group-title="VIP Sports",MLB 11 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89774.ts
+#EXTINF:-1 tvg-id="89775" group-title="VIP Sports",MLB 12 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89775.ts
+#EXTINF:-1 tvg-id="89776" group-title="VIP Sports",MLB 13 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89776.ts
+#EXTINF:-1 tvg-id="89777" group-title="VIP Sports",MLB 14 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89777.ts
+#EXTINF:-1 tvg-id="89778" group-title="VIP Sports",MLB 15 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89778.ts
+#EXTINF:-1 tvg-id="123102" group-title="VIP Sports",MLB 18 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/123102.ts
+#EXTINF:-1 tvg-id="123101" group-title="VIP Sports",MLB 17 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/123101.ts
+#EXTINF:-1 tvg-id="123100" group-title="VIP Sports",MLB 16 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/123100.ts
+#EXTINF:-1 tvg-id="89941" group-title="VIP Sports",NBA League Pass 1 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89941.ts
+#EXTINF:-1 tvg-id="89942" group-title="VIP Sports",NBA League Pass 2 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89942.ts
+#EXTINF:-1 tvg-id="89943" group-title="VIP Sports",NBA League Pass 3 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89943.ts
+#EXTINF:-1 tvg-id="89944" group-title="VIP Sports",NBA League Pass 4 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89944.ts
+#EXTINF:-1 tvg-id="89945" group-title="VIP Sports",NBA League Pass 5 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89945.ts
+#EXTINF:-1 tvg-id="89946" group-title="VIP Sports",NBA League Pass 6 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89946.ts
+#EXTINF:-1 tvg-id="89947" group-title="VIP Sports",NBA League Pass 7 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89947.ts
+#EXTINF:-1 tvg-id="89948" group-title="VIP Sports",NBA League Pass 8 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89948.ts
+#EXTINF:-1 tvg-id="89949" group-title="VIP Sports",NBA League Pass 9 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89949.ts
+#EXTINF:-1 tvg-id="89950" group-title="VIP Sports",NBA League Pass 10 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89950.ts
+#EXTINF:-1 tvg-id="89951" group-title="VIP Sports",NBA League Pass 11 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89951.ts
+#EXTINF:-1 tvg-id="89952" group-title="VIP Sports",NBA League Pass 12 HD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/89952.ts
+#EXTINF:-1 tvg-id="93880" group-title="VIP Sports",DAZN 1 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/93880.ts
+#EXTINF:-1 tvg-id="93881" group-title="VIP Sports",DAZN 2 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/93881.ts
+#EXTINF:-1 tvg-id="93879" group-title="VIP Sports",Rush Sports VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/93879.ts
+#EXTINF:-1 tvg-id="101163" group-title="VIP Sports",AMAZON PRIME 1 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101163.ts
+#EXTINF:-1 tvg-id="101162" group-title="VIP Sports",AMAZON PRIME 2 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101162.ts
+#EXTINF:-1 tvg-id="101161" group-title="VIP Sports",AMAZON PRIME 3 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101161.ts
+#EXTINF:-1 tvg-id="101160" group-title="VIP Sports",AMAZON PRIME 4 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101160.ts
+#EXTINF:-1 tvg-id="101159" group-title="VIP Sports",AMAZON PRIME 5 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101159.ts
+#EXTINF:-1 tvg-id="101158" group-title="VIP Sports",AMAZON PRIME 6 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101158.ts
+#EXTINF:-1 tvg-id="101157" group-title="VIP Sports",AMAZON PRIME 7 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101157.ts
+#EXTINF:-1 tvg-id="101156" group-title="VIP Sports",AMAZON PRIME 8 HD FR (ONLY EVENTS) VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101156.ts
+#EXTINF:-1 tvg-id="101767" group-title="VIP Sports",SSC 1 ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101767.ts
+#EXTINF:-1 tvg-id="101766" group-title="VIP Sports",Thamanya 1 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101766.ts
+#EXTINF:-1 tvg-id="101765" group-title="VIP Sports",Thamanya 2 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101765.ts
+#EXTINF:-1 tvg-id="101764" group-title="VIP Sports",Thamanya 3 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101764.ts
+#EXTINF:-1 tvg-id="101763" group-title="VIP Sports",SSC 4 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101763.ts
+#EXTINF:-1 tvg-id="101762" group-title="VIP Sports",SSC 5 ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101762.ts
+#EXTINF:-1 tvg-id="101761" group-title="VIP Sports",SSC 5 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101761.ts
+#EXTINF:-1 tvg-id="101760" group-title="VIP Sports",SSC NEWS FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101760.ts
+#EXTINF:-1 tvg-id="101759" group-title="VIP Sports",SSC 6 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101759.ts
+#EXTINF:-1 tvg-id="101757" group-title="VIP Sports",SSC 7 ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101757.ts
+#EXTINF:-1 tvg-id="101758" group-title="VIP Sports",SSC 7 FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101758.ts
+#EXTINF:-1 tvg-id="114764" group-title="VIP Sports",SSC 1 EXTRA FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114764.ts
+#EXTINF:-1 tvg-id="114763" group-title="VIP Sports",SSC 1 EXTRA HD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114763.ts
+#EXTINF:-1 tvg-id="114762" group-title="VIP Sports",SSC 2 EXTRA FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114762.ts
+#EXTINF:-1 tvg-id="114761" group-title="VIP Sports",SSC 2 EXTRA HD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114761.ts
+#EXTINF:-1 tvg-id="114760" group-title="VIP Sports",SSC 3 EXTRA FHD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114760.ts
+#EXTINF:-1 tvg-id="114759" group-title="VIP Sports",SSC 3 EXTRA HD ARB VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/114759.ts
+#EXTINF:-1 tvg-id="101947" group-title="VIP Sports",Optus 4 HD AU VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101947.ts
+#EXTINF:-1 tvg-id="102427" group-title="VIP Sports",TV4 Live FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102427.ts
+#EXTINF:-1 tvg-id="102425" group-title="VIP Sports",TV4 LIVE 2 FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102425.ts
+#EXTINF:-1 tvg-id="102423" group-title="VIP Sports",TV4 Live 3 FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102423.ts
+#EXTINF:-1 tvg-id="102421" group-title="VIP Sports",TV4 Live 4 FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102421.ts
+#EXTINF:-1 tvg-id="102419" group-title="VIP Sports",TV4 TENNIS FHD SE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102419.ts
+#EXTINF:-1 tvg-id="101995" group-title="VIP Sports",C More Event 1 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101995.ts
+#EXTINF:-1 tvg-id="101994" group-title="VIP Sports",C More Event 2 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101994.ts
+#EXTINF:-1 tvg-id="101993" group-title="VIP Sports",C More Event 3 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101993.ts
+#EXTINF:-1 tvg-id="101992" group-title="VIP Sports",C More Event 5 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101992.ts
+#EXTINF:-1 tvg-id="101991" group-title="VIP Sports",C More Event 4 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101991.ts
+#EXTINF:-1 tvg-id="101990" group-title="VIP Sports",C More Event 6 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101990.ts
+#EXTINF:-1 tvg-id="101989" group-title="VIP Sports",C More Event 7 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101989.ts
+#EXTINF:-1 tvg-id="101988" group-title="VIP Sports",C More Event 8 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101988.ts
+#EXTINF:-1 tvg-id="101987" group-title="VIP Sports",C More Event 9 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101987.ts
+#EXTINF:-1 tvg-id="101986" group-title="VIP Sports",C More Event 10 HD SE VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101986.ts
+#EXTINF:-1 tvg-id="101899" group-title="VIP Sports",ViaPlay Xtra 2 HD PL VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101899.ts
+#EXTINF:-1 tvg-id="101898" group-title="VIP Sports",ViaPlay Xtra 1 HD PL VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/101898.ts
+#EXTINF:-1 tvg-id="97399" group-title="VIP Sports",beIN Sports Max 5 AR VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/97399.ts
+#EXTINF:-1 tvg-id="97397" group-title="VIP Sports",beIN Sports Max 6 HD AR VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/97397.ts
+#EXTINF:-1 tvg-id="94366" group-title="VIP Sports",Play Sports 1 FHD BE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/94366.ts
+#EXTINF:-1 tvg-id="94367" group-title="VIP Sports",Play Sports 2 FHD BE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/94367.ts
+#EXTINF:-1 tvg-id="102509" group-title="VIP Sports",ViaPlay Xtra 1 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102509.ts
+#EXTINF:-1 tvg-id="102508" group-title="VIP Sports",ViaPlay Xtra 2 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102508.ts
+#EXTINF:-1 tvg-id="102507" group-title="VIP Sports",ViaPlay Xtra 3 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102507.ts
+#EXTINF:-1 tvg-id="102506" group-title="VIP Sports",ViaPlay Xtra 4 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102506.ts
+#EXTINF:-1 tvg-id="102505" group-title="VIP Sports",ViaPlay Xtra 5 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102505.ts
+#EXTINF:-1 tvg-id="102504" group-title="VIP Sports",ViaPlay Xtra 6 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102504.ts
+#EXTINF:-1 tvg-id="102503" group-title="VIP Sports",ViaPlay Xtra 7 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102503.ts
+#EXTINF:-1 tvg-id="102502" group-title="VIP Sports",ViaPlay Xtra 8 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102502.ts
+#EXTINF:-1 tvg-id="102501" group-title="VIP Sports",ViaPlay Xtra 9 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102501.ts
+#EXTINF:-1 tvg-id="102500" group-title="VIP Sports",ViaPlay Xtra 10 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102500.ts
+#EXTINF:-1 tvg-id="102499" group-title="VIP Sports",ViaPlay Xtra 11 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102499.ts
+#EXTINF:-1 tvg-id="102498" group-title="VIP Sports",ViaPlay Xtra 12 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102498.ts
+#EXTINF:-1 tvg-id="102497" group-title="VIP Sports",ViaPlay Xtra 13 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102497.ts
+#EXTINF:-1 tvg-id="102496" group-title="VIP Sports",ViaPlay Xtra 14 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102496.ts
+#EXTINF:-1 tvg-id="102495" group-title="VIP Sports",ViaPlay Xtra 15 HD [Live-Match] PL
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/102495.ts
+#EXTINF:-1 tvg-id="105338" group-title="VIP Sports",ViaPlay Xtra 16 HD [Live-Match]
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105338.ts
+#EXTINF:-1 tvg-id="105330" group-title="VIP Sports",Viaplay Formuler 1 FHD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105330.ts
+#EXTINF:-1 tvg-id="105335" group-title="VIP Sports",Viaplay Premier Sports 1 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105335.ts
+#EXTINF:-1 tvg-id="105336" group-title="VIP Sports",Viaplay Premier Sports 1 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105336.ts
+#EXTINF:-1 tvg-id="105337" group-title="VIP Sports",Viaplay Premier Sports 2 FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105337.ts
+#EXTINF:-1 tvg-id="105331" group-title="VIP Sports",Viaplay Xtra Premier league 1 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105331.ts
+#EXTINF:-1 tvg-id="105332" group-title="VIP Sports",Viaplay Xtra Premier league 2 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105332.ts
+#EXTINF:-1 tvg-id="105333" group-title="VIP Sports",Viaplay Xtra Premier league 3 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105333.ts
+#EXTINF:-1 tvg-id="105334" group-title="VIP Sports",Viaplay Xtra Premier league 5 HD VIP Sports
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105334.ts
+#EXTINF:-1 tvg-id="104359" group-title="VIP Sports",RTL+ SPORT EVENT 1 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104359.ts
+#EXTINF:-1 tvg-id="104358" group-title="VIP Sports",RTL+ SPORT EVENT 2 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104358.ts
+#EXTINF:-1 tvg-id="104357" group-title="VIP Sports",RTL+ SPORT EVENT 3 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104357.ts
+#EXTINF:-1 tvg-id="104356" group-title="VIP Sports",RTL+ SPORT EVENT 4 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104356.ts
+#EXTINF:-1 tvg-id="104355" group-title="VIP Sports",RTL+ SPORT EVENT 5 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104355.ts
+#EXTINF:-1 tvg-id="104354" group-title="VIP Sports",RTL+ SPORT EVENT 6 DE VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/104354.ts
+#EXTINF:-1 tvg-id="105279" group-title="VIP Sports",Formula 1 TV FHD VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/105279.ts
+#EXTINF:-1 tvg-id="107911" group-title="VIP Sports",PDC DARTS Board 01 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/107911.ts
+#EXTINF:-1 tvg-id="107912" group-title="VIP Sports",PDC DARTS Board 02 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/107912.ts
+#EXTINF:-1 tvg-id="127754" group-title="VIP Sports",PDC DARTS Board 03 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127754.ts
+#EXTINF:-1 tvg-id="127753" group-title="VIP Sports",PDC DARTS Board 04 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127753.ts
+#EXTINF:-1 tvg-id="127752" group-title="VIP Sports",PDC DARTS Board 05 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127752.ts
+#EXTINF:-1 tvg-id="127751" group-title="VIP Sports",PDC DARTS Board 06 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127751.ts
+#EXTINF:-1 tvg-id="127750" group-title="VIP Sports",PDC DARTS Board 07 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127750.ts
+#EXTINF:-1 tvg-id="127749" group-title="VIP Sports",PDC DARTS Board 08 VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/127749.ts
+#EXTINF:-1 tvg-id="110030" group-title="VIP Sports",Nova Sport 1 FHD SK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/110030.ts
+#EXTINF:-1 tvg-id="110031" group-title="VIP Sports",Nova Sport 2 FHD SK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/110031.ts
+#EXTINF:-1 tvg-id="110032" group-title="VIP Sports",Nova Sport 3 FHD SK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/110032.ts
+#EXTINF:-1 tvg-id="110033" group-title="VIP Sports",Nova Sport 4 FHD SK VIP SPORTS
+http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/110033.ts
