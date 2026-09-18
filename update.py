@@ -13,7 +13,7 @@ USERNAME = os.getenv("API_USERNAME", "").strip()
 PASSWORD = os.getenv("API_PASSWORD", "").strip()
 OUTPUT_LIVE_M3U = "DooTvGun.m3u"
 
-# กำหนดให้ดึงเฉพาะกลุ่ม |TH| ✪ THAILAND (ID 401) เท่านั้น
+# กำหนดให้ดึงเฉพาะกลุ่ม VIP Sports (ID 138) เท่านั้น
 CATEGORY_MAPPING = {
     "318" : "VIP Sports"
 }
