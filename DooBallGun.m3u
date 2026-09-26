@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://dss.theoneip.tv:8080/xmltv.php?username=lF9NMBDCk8&password=4ENf2IkAbY"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 25-09-2026 09:33 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 26-09-2026 09:36 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="17201" group-title="VIP Sports",##########   VIP Sports   ##########
 http://dss.theoneip.tv:8080/live/lF9NMBDCk8/4ENf2IkAbY/17201.ts
